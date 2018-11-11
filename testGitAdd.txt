@@ -1,1 +1,1 @@
-test add cmd of git
+test add and update cmd of git
