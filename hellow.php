@@ -1,0 +1,3 @@
+<?
+echo 'www.runoob.com'
+?>
