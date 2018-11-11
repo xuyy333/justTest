@@ -1,0 +1,1 @@
+#try to push files from a locally repository created by 'git init'
